@@ -65,104 +65,104 @@ The table below catalogs premier commercial suites and SaaS motion platforms, **
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the open-source visual effects, procedural motion graphics, and post-production software ecosystem. Each project includes an interactive star counter linking directly to its stargazer community, **sorted in descending order by GitHub star count**.
+Explore the open-source visual effects, procedural motion graphics, and post-production software ecosystem. Each project includes an interactive Stars_Counter linking directly to its stargazer community, **sorted in descending order by GitHub Stars_Count**.
 
-### 1. [Remotion](https://github.com/remotion-dev/remotion) [![GitHub stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)
+### 1. [Remotion](https://github.com/remotion-dev/remotion) [![GitHub_Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)
 - **Primary Domain**: Code-driven programmatic video rendering & procedural motion design.
 - **Key Features**: Create motion graphics and dynamic videos using React, HTML/CSS, WebGL, and TypeScript. Programmatic frame-by-frame rendering, server-side batch video generation, audio synchronization, and parameterized template engines.
 - **License**: Custom Open Source / SSR Commercial.
 
-### 2. [FFmpeg](https://github.com/FFmpeg/FFmpeg) [![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)
+### 2. [FFmpeg](https://github.com/FFmpeg/FFmpeg) [![GitHub_Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)
 - **Primary Domain**: Universal media transcoding, filtering, and video processing backbone.
 - **Key Features**: The standard cross-platform command-line library for decoding, encoding, transcoding, muxing, demuxing, streaming, and filtering video frames and audio streams. Fundamental to VFX pipeline automation and proxy conversion.
 - **License**: LGPL v2.1+ / GPL v2+.
 
-### 3. [Graphite](https://github.com/GraphiteEditor/Graphite) [![GitHub stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers)
+### 3. [Graphite](https://github.com/GraphiteEditor/Graphite) [![GitHub_Stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers)
 - **Primary Domain**: Procedural 2D graphics, node compositing & generative vector design.
 - **Key Features**: Rust-native raster and vector graphics engine combining layer-based compositing with non-destructive node-based procedural pipelines. Roadmap includes motion graphics and integrated VFX compositing.
 - **License**: Apache-2.0.
 
-### 4. [Blender](https://github.com/blender/blender) [![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)
+### 4. [Blender](https://github.com/blender/blender) [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)
 - **Primary Domain**: Complete 3D creation suite, camera tracking, and VFX node compositor.
 - **Key Features**: Comprehensive open-source 3D and VFX suite covering modeling, sculpting, rigging, simulation (mantaflow fluid, smoke, cloth), Cycles photorealistic path tracing, EEVEE real-time engine, 3D camera matchmoving, and built-in node-based compositing.
 - **License**: GPL-3.0.
 
-### 5. [Meshroom](https://github.com/alicevision/Meshroom) [![GitHub stars](https://img.shields.io/github/stars/alicevision/Meshroom?style=social&color=white)](https://github.com/alicevision/Meshroom/stargazers)
+### 5. [Meshroom](https://github.com/alicevision/Meshroom) [![GitHub_Stars](https://img.shields.io/github/stars/alicevision/Meshroom?style=social&color=white)](https://github.com/alicevision/Meshroom/stargazers)
 - **Primary Domain**: 3D photogrammetry, camera tracking & set reconstruction for VFX.
 - **Key Features**: Node-based 3D photogrammetry computer vision framework built on AliceVision. Used by VFX studios to reconstruct high-density 3D geometry and matchmove camera projections from real-world photography sets.
 - **License**: MPL-2.0.
 
-### 6. [Olive Video Editor](https://github.com/olive-editor/olive) [![GitHub stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive/stargazers)
+### 6. [Olive Video Editor](https://github.com/olive-editor/olive) [![GitHub_Stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive/stargazers)
 - **Primary Domain**: Node-based non-linear video editing (NLE) and compositing.
 - **Key Features**: Modern non-linear video editor that natively integrates a complete node-based compositing graph directly into every clip, featuring OpenColorIO color management and shader effects.
 - **License**: GPL-3.0.
 
-### 7. [OpenToonz](https://github.com/opentoonz/opentoonz) [![GitHub stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers)
+### 7. [OpenToonz](https://github.com/opentoonz/opentoonz) [![GitHub_Stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers)
 - **Primary Domain**: 2D animation, cel animation, and visual effects processing.
 - **Key Features**: Open-source 2D animation production software customized by Studio Ghibli. Features a schematic node graph for composite special effects, digital vector painting, automatic tweening, and scanning automation.
 - **License**: Modified BSD.
 
-### 8. [EffectCraft](https://github.com/storytold/effectcraft) [![GitHub stars](https://img.shields.io/github/stars/storytold/effectcraft?style=social&color=white)](https://github.com/storytold/effectcraft/stargazers)
+### 8. [EffectCraft](https://github.com/storytold/effectcraft) [![GitHub_Stars](https://img.shields.io/github/stars/storytold/effectcraft?style=social&color=white)](https://github.com/storytold/effectcraft/stargazers)
 - **Primary Domain**: Rust-native After Effects alternative for motion graphics & compositing.
 - **Key Features**: Built from scratch in pure Rust without Adobe code dependencies. Features local keyframing, timeline animation, zero telemetry, CLI automation, JSON control channel, and an MCP server for AI agent workflows.
 - **License**: MIT / Apache-2.0 dual license.
 
-### 9. [Kdenlive](https://github.com/KDE/kdenlive) [![GitHub stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)
+### 9. [Kdenlive](https://github.com/KDE/kdenlive) [![GitHub_Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)
 - **Primary Domain**: Open-source non-linear video editing with keyframe motion tracking.
 - **Key Features**: Built on the MLT Framework and Qt/KDE, offering multi-track timeline editing, AI-driven auto-motion tracking, keyframable transformations, rotoscoping, chroma-keying, and audio-video scopes.
 - **License**: GPL-3.0.
 
-### 10. [Natron](https://github.com/NatronGitHub/Natron) [![GitHub stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers)
+### 10. [Natron](https://github.com/NatronGitHub/Natron) [![GitHub_Stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers)
 - **Primary Domain**: Node-based digital compositing and visual effects (Nuke-style).
 - **Key Features**: The standard open-source node-based compositor. Full OpenFX host architecture, 32-bit float linear color pipeline, OpenColorIO, OpenImageIO, planar tracking, rotoscoping, keying, curve dope-sheets, and headless `NatronRenderer` for render farm batch automation.
 - **License**: GPL-2.0.
 
-### 11. [PBRT-v4](https://github.com/mmp/pbrt-v4) [![GitHub stars](https://img.shields.io/github/stars/mmp/pbrt-v4?style=social&color=white)](https://github.com/mmp/pbrt-v4/stargazers)
+### 11. [PBRT-v4](https://github.com/mmp/pbrt-v4) [![GitHub_Stars](https://img.shields.io/github/stars/mmp/pbrt-v4?style=social&color=white)](https://github.com/mmp/pbrt-v4/stargazers)
 - **Primary Domain**: Physically based ray tracing and photorealistic CGI simulation.
 - **Key Features**: Academy Award-winning rendering engine implementing state-of-the-art physically based light transport algorithms, GPU ray tracing (OptiX), and spectral rendering for VFX research and realistic visual imagery.
 - **License**: Apache-2.0.
 
-### 12. [OpenVDB](https://github.com/AcademySoftwareFoundation/openvdb) [![GitHub stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/openvdb?style=social&color=white)](https://github.com/AcademySoftwareFoundation/openvdb/stargazers)
+### 12. [OpenVDB](https://github.com/AcademySoftwareFoundation/openvdb) [![GitHub_Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/openvdb?style=social&color=white)](https://github.com/AcademySoftwareFoundation/openvdb/stargazers)
 - **Primary Domain**: Volumetric data structures for dynamic smoke, fire, and fluid VFX.
 - **Key Features**: Academy Software Foundation industry standard developed by DreamWorks Animation for storing and manipulating sparse volumetric data on three-dimensional grids. Essential for high-end particle and fluid simulations.
 - **License**: MPL-2.0.
 
-### 13. [OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) [![GitHub stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenImageIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenImageIO/stargazers)
+### 13. [OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) [![GitHub_Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenImageIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenImageIO/stargazers)
 - **Primary Domain**: VFX image format I/O library and texture caching engine.
 - **Key Features**: C++ library and toolset providing format-agnostic image reading, writing, and processing for visual effects pipelines (OpenEXR, DPX, TIFF, Cineon). Features the high-performance `maketx` mipmap texture caching system.
 - **License**: Apache-2.0.
 
-### 14. [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) [![GitHub stars](https://img.shields.io/github/stars/JacquesLucke/animation_nodes?style=social&color=white)](https://github.com/JacquesLucke/animation_nodes/stargazers)
+### 14. [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) [![GitHub_Stars](https://img.shields.io/github/stars/JacquesLucke/animation_nodes?style=social&color=white)](https://github.com/JacquesLucke/animation_nodes/stargazers)
 - **Primary Domain**: Procedural motion graphics and visual scripting in Blender.
 - **Key Features**: Node-based visual scripting addon for Blender that enables motion designers to create complex generative animations, procedural text animators, sound visualizers, and matrix transformations without Python scripting.
 - **License**: GPL-3.0.
 
-### 15. [Appleseed](https://github.com/appleseedhq/appleseed) [![GitHub stars](https://img.shields.io/github/stars/appleseedhq/appleseed?style=social&color=white)](https://github.com/appleseedhq/appleseed/stargazers)
+### 15. [Appleseed](https://github.com/appleseedhq/appleseed) [![GitHub_Stars](https://img.shields.io/github/stars/appleseedhq/appleseed?style=social&color=white)](https://github.com/appleseedhq/appleseed/stargazers)
 - **Primary Domain**: Open-source physically based rendering engine for animation & VFX.
 - **Key Features**: Modern ray tracing renderer with full Open Shading Language (OSL) support, disney principled BSDFs, spectral rendering, and native integration plugins for Blender, Maya, and 3ds Max.
 - **License**: MIT.
 
-### 16. [Synfig Studio](https://github.com/synfig/synfig) [![GitHub stars](https://img.shields.io/github/stars/synfig/synfig?style=social&color=white)](https://github.com/synfig/synfig/stargazers)
+### 16. [Synfig Studio](https://github.com/synfig/synfig) [![GitHub_Stars](https://img.shields.io/github/stars/synfig/synfig?style=social&color=white)](https://github.com/synfig/synfig/stargazers)
 - **Primary Domain**: 2D vector animation with skeletal rigging and automated tweening.
 - **Key Features**: Vector animation engine offering 50+ layer types mimicking After Effects' layer stack, automatic vector tweening between keyframes, skeletal bone distortion systems, and HDR mathematical color spaces.
 - **License**: GPL-2.0.
 
-### 17. [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO) [![GitHub stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers)
+### 17. [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO) [![GitHub_Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers)
 - **Primary Domain**: Color management framework for film, television, and visual effects.
 - **Key Features**: The standard color management system across visual effects facilities and commercial packages (Nuke, Flame, Blender, Natron). Enables consistent ACES color spaces, LUT transforms, and monitor calibration across distributed teams.
 - **License**: BSD-3-Clause.
 
-### 18. [OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) [![GitHub stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenTimelineIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/stargazers)
+### 18. [OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) [![GitHub_Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenTimelineIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenTimelineIO/stargazers)
 - **Primary Domain**: Editorial timeline interchange API for VFX shot tracking and conform.
 - **Key Features**: Interchange format and software library that facilitates the exchange of editorial cut information (EDL, AAF, Final Cut XML) between editorial departments, VFX shot trackers, and finishing suites.
 - **License**: Apache-2.0.
 
-### 19. [Enve](https://github.com/MaurycyLiebner/enve) [![GitHub stars](https://img.shields.io/github/stars/MaurycyLiebner/enve?style=social&color=white)](https://github.com/MaurycyLiebner/enve/stargazers)
+### 19. [Enve](https://github.com/MaurycyLiebner/enve) [![GitHub_Stars](https://img.shields.io/github/stars/MaurycyLiebner/enve?style=social&color=white)](https://github.com/MaurycyLiebner/enve/stargazers)
 - **Primary Domain**: Flexible 2D vector & raster animation software for Linux and Windows.
 - **Key Features**: Create vector animations, path morphing, bone rigging, and audio-synced sequences with timeline curve interpolation and GLSL shader effects.
 - **License**: GPL-3.0.
 
-### 20. [TiXL / Tooll3](https://github.com/framefield/tooll) [![GitHub stars](https://img.shields.io/github/stars/framefield/tooll?style=social&color=white)](https://github.com/framefield/tooll/stargazers)
+### 20. [TiXL / Tooll3](https://github.com/framefield/tooll) [![GitHub_Stars](https://img.shields.io/github/stars/framefield/tooll?style=social&color=white)](https://github.com/framefield/tooll/stargazers)
 - **Primary Domain**: Real-time generative motion graphics, procedural 3D, and VJ live performance.
 - **Key Features**: Open-source real-time motion graphics toolkit uniting node graph visual programming with linear timeline animation. Features audio-reactive modulation, MIDI/OSC controller support, Spout video textures, and standalone executable export.
 - **License**: MIT.
@@ -232,3 +232,12 @@ Thank you for exploring and utilizing the **Awesome Visual Effects & Motion Grap
 
 ---
 *Maintained with ❤️ by [Ishan Dutta](https://github.com/ishandutta2007) and global VFX & motion design contributors.*
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Visual-Effects-Motion-Graphics&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Visual-Effects-Motion-Graphics_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Visual-Effects-Motion-Graphics_growth.svg">
+  </picture>
+</a>
